@@ -55,8 +55,9 @@ public class Kirby {
         graphics.fillOval(x + (width * 66 / 100), y + (height * 50 / 100), width * 10 / 100, height * 5 / 100);
         
         // mouth 
-        graphics.setColor(new Color(168, 48, 48));
-        graphics.fillOval(600, 200, 40, 40);
+        graphics.setColor(new Color(240, 61, 154));
+        graphics.fillOval(585, 400, 40, 80);
+        
         
         
         
